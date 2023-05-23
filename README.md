@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eshan-Akash
 - 👀 I’m interested in ...Software technologies
-- 🌱 I’m currently learning ...Data structure & Algorithm and Blockchain Technology
+- 🌱 I’m currently learning ...Data structure & Algorithm and Backend Development
 - 💞️ I’m looking to collaborate on ...Project to make a contribution to society 
 - 📫 How to reach me ... in Linkedin: https://www.linkedin.com/in/eshan-akash/ 
 
